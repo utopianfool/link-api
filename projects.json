@@ -9,4 +9,9 @@
         "link_url" : "http://weather.utopianfool.co.uk",
         "description" : "Vanilla Javascript amalgamation of projects"
     }
+    {
+        "link_text" : "Interstellar Forge Blog",
+        "link_url" : "https://www.blog.interstellarforge.com",
+        "description" : "Creative Web Development, WordPress Development"
+    }
 ]
