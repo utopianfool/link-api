@@ -5,9 +5,14 @@
         "description" : "Vanilla Javascript meditation app"
     },
     {
-        "link_text" : "Not Just Weather",
+        "link_text" : "Weather App",
         "link_url" : "http://weather.utopianfool.co.uk",
-        "description" : "Vanilla Javascript amalgamation of projects"
+        "description" : "Vanilla Javascript weather app using Openweathermap data"
+    },
+    {
+        "link_text" : "Issue Tracker",
+        "link_url" : "http://issue-tracker.utopianfool.co.uk",
+        "description" : "Vanilla Javascript issue tracker with Bootstrap"
     },
     {
         "link_text" : "Interstellar Forge Blog",
