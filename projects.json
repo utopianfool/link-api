@@ -1,21 +1,26 @@
 [
     {
         "link_text" : "Meditation App",
-        "link_url" : "http://meditation.utopianfool.co.uk",
+        "link_url" : "https://meditation.utopianfool.co.uk",
         "description" : "Vanilla Javascript meditation app"
     },
     {
+        "link_text" : "Calculator",
+        "link_url" : "https://calculator.utopianfool.co.uk",
+        "description" : "Vanilla Javascript calculator app"
+    },
+    {
         "link_text" : "Weather App",
-        "link_url" : "http://weather.utopianfool.co.uk",
+        "link_url" : "https://weather.utopianfool.co.uk",
         "description" : "Vanilla Javascript weather app using Openweathermap data"
     },
     {
         "link_text" : "Issue Tracker",
-        "link_url" : "http://issue-tracker.utopianfool.co.uk",
+        "link_url" : "https://issue-tracker.utopianfool.co.uk",
         "description" : "Vanilla Javascript issue tracker with Bootstrap"
     },
     {
-        "link_text" : "Interstellar Forge Blog",
+        "link_text" : "Interstellar Forge",
         "link_url" : "https://www.blog.interstellarforge.com",
         "description" : "Creative Web Development WordPress Development"
     },
