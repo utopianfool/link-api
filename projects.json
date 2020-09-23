@@ -1,8 +1,8 @@
 [
     {
-        "link_text" : "Meditation App",
-        "link_url" : "https://meditation.utopianfool.co.uk",
-        "description" : "Vanilla Javascript meditation app"
+        "link_text" : "Hooked Movie Search",
+        "link_url" : "https://hooked.utopianfool.co.uk",
+        "description" : "React app that searches IMDb"
     },
     {
         "link_text" : "Calculator",
