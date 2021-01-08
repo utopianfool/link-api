@@ -30,6 +30,11 @@
         "description" : "Creative Web Development WordPress Development"
     },
     {
+        "link_text" : "Little Argentina",
+        "link_url" : "https://littleargentina.co.uk",
+        "description" : "Ecommerce store for Argentinian products"
+    },
+    {
         "link_text" : "Zero Waste Pantry",
         "link_url" : "https://zerowastepantry.co.uk",
         "description" : "Helping you go plastic free"
