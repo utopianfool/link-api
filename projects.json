@@ -38,5 +38,10 @@
         "link_text" : "Zero Waste Pantry",
         "link_url" : "https://zerowastepantry.co.uk",
         "description" : "Helping you go plastic free"
+    },
+    {
+        "link_text" : "Shop Startup",
+        "link_url" : "https://shopstartup.co.uk",
+        "description" : "Launch and sustain your ecommerce business"
     }
 ]
